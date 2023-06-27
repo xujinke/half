@@ -2,8 +2,7 @@
     "posts": [
     {
       id:1,
-      name:"美食",
-      icon:"https://i.postimg.cc/mr3wWM1n/image.png"
+      name:"美食"
     }
 ],
     "comments": [
