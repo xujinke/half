@@ -5,8 +5,7 @@
   "comments": [
     { "id": 1, "body": "some comment", "postId": 1 }
   ],
-  "profile": { "name": "typicode" },
-  "data":[
+  "profile": { "name": "typicode","data":[
     {
       id:1,
       name:"美食",
@@ -52,5 +51,6 @@
       name:"音乐",
       icon:"https://i.postimg.cc/mDbSLDQg/image.png"
     },
-  ]
+  ] },
+  
 }
